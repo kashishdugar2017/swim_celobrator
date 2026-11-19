@@ -93,7 +93,7 @@ fn main() {
             continue;
         }
         else{
-            println!("👋🏻Bye race well!");
+            println!("👋Bye race well!");
             break;
         }
     }
